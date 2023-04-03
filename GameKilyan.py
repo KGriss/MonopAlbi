@@ -8,4 +8,5 @@ class Game :
         diceValue = randint(1,6)
         return diceValue
     
-    
+    def getChanceCard(self):
+        return 2
